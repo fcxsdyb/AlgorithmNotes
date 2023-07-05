@@ -2,13 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e993bda2-565e-4da3-a313-bd1fa0f913bf" name="Changes" comment="Algorithm">
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/JZ22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/JZ23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/JZ24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/JZ25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/JZ52.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/JZ18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/JZ35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/JZ76.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/Summary.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/JZ26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/JZ27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/JZ32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/JZ33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/JZ34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/JZ54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/JZ55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/JZ7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/JZ77.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/JZ82.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/JZ6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/JZ6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/JZ22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/JZ22.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,10 +32,14 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2RzxpmoNu6MDdhWvv7A4ukMTcl6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -53,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1688266896556</updated>
-      <workItem from="1688266898526" duration="16583000" />
+      <workItem from="1688266898526" duration="62421000" />
     </task>
     <task id="LOCAL-00001" summary="Algorithm">
       <created>1688267640564</created>
@@ -62,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688267640564</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Algorithm">
+      <created>1688307939780</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688307939780</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
