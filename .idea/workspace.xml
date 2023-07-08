@@ -2,17 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e993bda2-565e-4da3-a313-bd1fa0f913bf" name="Changes" comment="Algorithm">
-      <change afterPath="$PROJECT_DIR$/src/QueueAndStack/JZ9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/JZ28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/JZ36.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/JZ37.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/JZ68.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/JZ78.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/JZ79.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/JZ8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/JZ84.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/JZ86.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/JZ42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QueueAndStack/JZ30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QueueAndStack/JZ31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QueueAndStack/JZ59.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QueueAndStack/JZ73.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Search/JZ11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Search/JZ38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Search/JZ4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Search/JZ44.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Search/JZ53.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QueueAndStack/JZ9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QueueAndStack/JZ9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,15 +46,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "18",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -65,7 +68,7 @@
       <workItem from="1688623973223" duration="907000" />
       <workItem from="1688625021991" duration="16000" />
       <workItem from="1688625055754" duration="103000" />
-      <workItem from="1688625173439" duration="11260000" />
+      <workItem from="1688625173439" duration="28072000" />
     </task>
     <task id="LOCAL-00001" summary="Algorithm">
       <created>1688267640564</created>
@@ -88,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688599255669</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Algorithm">
+      <created>1688699191668</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688699191668</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
