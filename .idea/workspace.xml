@@ -2,19 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e993bda2-565e-4da3-a313-bd1fa0f913bf" name="Changes" comment="Algorithm">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/JZ42.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QueueAndStack/JZ30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QueueAndStack/JZ31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QueueAndStack/JZ59.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QueueAndStack/JZ73.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Search/JZ11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Search/JZ38.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Search/JZ4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Search/JZ44.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Search/JZ53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BitOperation/JZ15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BitOperation/JZ16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BitOperation/JZ56.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BitOperation/JZ64.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BitOperation/JZ65.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/JZ10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/JZ19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/JZ46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/JZ47.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/JZ48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/JZ63.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/JZ69.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/JZ70.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/JZ71.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/JZ85.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recall/JZ12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recall/JZ13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Simulate/JZ20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Simulate/JZ29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Simulate/JZ61.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Simulate/JZ67.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sort/JZ3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sort/JZ40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sort/JZ41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sort/JZ51.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QueueAndStack/JZ9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QueueAndStack/JZ9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +81,7 @@
       <workItem from="1688623973223" duration="907000" />
       <workItem from="1688625021991" duration="16000" />
       <workItem from="1688625055754" duration="103000" />
-      <workItem from="1688625173439" duration="28072000" />
+      <workItem from="1688625173439" duration="68491000" />
     </task>
     <task id="LOCAL-00001" summary="Algorithm">
       <created>1688267640564</created>
@@ -98,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688699191668</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Algorithm">
+      <created>1688785804373</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1688785804373</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
