@@ -2,23 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e993bda2-565e-4da3-a313-bd1fa0f913bf" name="Changes" comment="Algorithm">
-      <change afterPath="$PROJECT_DIR$/src/Other/JZ14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Other/JZ17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Other/JZ21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Other/JZ39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Other/JZ43.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Other/JZ45.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Other/JZ49.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Other/JZ5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Other/JZ50.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Other/JZ57.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Other/JZ58.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Other/JZ62.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Other/JZ66.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Other/JZ74.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Other/JZ75.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Other/JZ81.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Other/JZ83.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,6 +58,7 @@
       <workItem from="1688625055754" duration="103000" />
       <workItem from="1688625173439" duration="90402000" />
       <workItem from="1689137049729" duration="5672000" />
+      <workItem from="1689218611865" duration="3522000" />
     </task>
     <task id="LOCAL-00001" summary="Algorithm">
       <created>1688267640564</created>
@@ -118,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688974772776</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Algorithm">
+      <created>1689218623095</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1689218623095</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
