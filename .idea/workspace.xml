@@ -2,31 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e993bda2-565e-4da3-a313-bd1fa0f913bf" name="Changes" comment="Algorithm">
-      <change afterPath="$PROJECT_DIR$/src/BitOperation/JZ15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BitOperation/JZ16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BitOperation/JZ56.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BitOperation/JZ64.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BitOperation/JZ65.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/JZ10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/JZ19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/JZ46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/JZ47.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/JZ48.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/JZ63.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/JZ69.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/JZ70.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/JZ71.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/JZ85.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recall/JZ12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recall/JZ13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Simulate/JZ20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Simulate/JZ29.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Simulate/JZ61.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Simulate/JZ67.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sort/JZ3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sort/JZ40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sort/JZ41.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sort/JZ51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Other/JZ14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Other/JZ17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Other/JZ21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Other/JZ39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Other/JZ43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Other/JZ45.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Other/JZ49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Other/JZ5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Other/JZ50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Other/JZ57.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Other/JZ58.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Other/JZ62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Other/JZ66.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Other/JZ74.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Other/JZ75.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Other/JZ81.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Other/JZ83.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,16 +51,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "18",
-    "run.code.analysis.last.selected.profile": "pProject Default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -81,7 +73,8 @@
       <workItem from="1688623973223" duration="907000" />
       <workItem from="1688625021991" duration="16000" />
       <workItem from="1688625055754" duration="103000" />
-      <workItem from="1688625173439" duration="68491000" />
+      <workItem from="1688625173439" duration="90402000" />
+      <workItem from="1689137049729" duration="5672000" />
     </task>
     <task id="LOCAL-00001" summary="Algorithm">
       <created>1688267640564</created>
@@ -118,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688785804373</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Algorithm">
+      <created>1688974772776</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1688974772776</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
