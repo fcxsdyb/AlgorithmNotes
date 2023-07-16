@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="e993bda2-565e-4da3-a313-bd1fa0f913bf" name="Changes" comment="Algorithm">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/JZ23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/JZ23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/JZ32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/JZ32.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/JZ34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/JZ34.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +61,8 @@
       <workItem from="1688625055754" duration="103000" />
       <workItem from="1688625173439" duration="90402000" />
       <workItem from="1689137049729" duration="5672000" />
-      <workItem from="1689218611865" duration="3522000" />
+      <workItem from="1689218611865" duration="8371000" />
+      <workItem from="1689311378484" duration="11285000" />
     </task>
     <task id="LOCAL-00001" summary="Algorithm">
       <created>1688267640564</created>
@@ -109,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689218623095</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Algorithm">
+      <created>1689249724736</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1689249724736</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

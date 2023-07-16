@@ -16,7 +16,7 @@ import java.lang.*;
 
 public class JZ34 {
 
-    class TreeNode {
+    static class TreeNode {
         int val = 0;
         TreeNode left = null;
         TreeNode right = null;
@@ -29,10 +29,10 @@ public class JZ34 {
     /**
      * Method 1: Using dfs to divide tree into several path with value. Compare the value and find the track.
      */
-    private ArrayList<ArrayList<Integer>> ret = new ArrayList<>();
-    private LinkedList<Integer> path = new LinkedList<>();
+    static private ArrayList<ArrayList<Integer>> ret = new ArrayList<>();
+    static private LinkedList<Integer> path = new LinkedList<>();
 
-    void dfs(TreeNode root, int number) {
+    static void dfs(TreeNode root, int number) {
         // 处理树为空
         if (root == null) return;
         // 路径更新
@@ -49,7 +49,7 @@ public class JZ34 {
         path.removeLast();
     }
 
-    public ArrayList<ArrayList<Integer>> FindPath1(TreeNode root, int expectNumber) {
+    static public ArrayList<ArrayList<Integer>> FindPath1(TreeNode root, int expectNumber) {
         dfs(root, expectNumber);
         return ret;
     }

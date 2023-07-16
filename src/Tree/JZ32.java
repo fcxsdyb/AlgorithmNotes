@@ -55,7 +55,7 @@ public class JZ32 {
             //新的一层
             ArrayList<Integer> row;
             if (res.size() < depth) {
-                row = new ArrayList();
+                row = new ArrayList<>();
                 res.add(row);
                 //读取该层的一维数组，将元素加入末尾
             } else {
@@ -78,9 +78,8 @@ public class JZ32 {
         //递归层次遍历
         traverse(root, temp, 1);
         //送入一维数组
-        for (int i = 0; i < temp.size(); i++)
-            for (int j = 0; j < temp.get(i).size(); j++)
-                res.add(temp.get(i).get(j));
+        for (ArrayList<Integer> integers : temp)
+            res.addAll(integers);
         return res;
     }
 }
