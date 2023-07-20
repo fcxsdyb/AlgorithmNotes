@@ -2,103 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e993bda2-565e-4da3-a313-bd1fa0f913bf" name="Changes" comment="Algorithm">
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q25.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BitOperation/JZ15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/BitOperation/JZ15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BitOperation/JZ16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/BitOperation/JZ16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BitOperation/JZ56.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/BitOperation/JZ56.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BitOperation/JZ64.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/BitOperation/JZ64.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BitOperation/JZ65.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/BitOperation/JZ65.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DynamicProgramming/JZ10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/DynamicProgramming/JZ10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DynamicProgramming/JZ19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/DynamicProgramming/JZ19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DynamicProgramming/JZ42.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/DynamicProgramming/JZ42.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DynamicProgramming/JZ46.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/DynamicProgramming/JZ46.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DynamicProgramming/JZ47.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/DynamicProgramming/JZ47.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DynamicProgramming/JZ48.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/DynamicProgramming/JZ48.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DynamicProgramming/JZ63.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/DynamicProgramming/JZ63.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DynamicProgramming/JZ69.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/DynamicProgramming/JZ69.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DynamicProgramming/JZ70.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/DynamicProgramming/JZ70.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DynamicProgramming/JZ71.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/DynamicProgramming/JZ71.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DynamicProgramming/JZ85.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/DynamicProgramming/JZ85.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/JZ18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/LinkedList/JZ18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/JZ22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/LinkedList/JZ22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/JZ23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/LinkedList/JZ23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/JZ24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/LinkedList/JZ24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/JZ25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/LinkedList/JZ25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/JZ35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/LinkedList/JZ35.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/JZ52.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/LinkedList/JZ52.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/JZ6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/LinkedList/JZ6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/JZ76.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/LinkedList/JZ76.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Other/JZ14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Other/JZ14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Other/JZ17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Other/JZ17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Other/JZ21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Other/JZ21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Other/JZ39.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Other/JZ39.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Other/JZ43.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Other/JZ43.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Other/JZ45.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Other/JZ45.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Other/JZ49.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Other/JZ49.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Other/JZ5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Other/JZ5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Other/JZ50.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Other/JZ50.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Other/JZ57.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Other/JZ57.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Other/JZ58.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Other/JZ58.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Other/JZ62.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Other/JZ62.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Other/JZ66.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Other/JZ66.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Other/JZ74.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Other/JZ74.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Other/JZ75.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Other/JZ75.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Other/JZ81.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Other/JZ81.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Other/JZ83.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Other/JZ83.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QueueAndStack/JZ30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/QueueAndStack/JZ30.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QueueAndStack/JZ31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/QueueAndStack/JZ31.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QueueAndStack/JZ59.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/QueueAndStack/JZ59.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QueueAndStack/JZ73.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/QueueAndStack/JZ73.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QueueAndStack/JZ9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/QueueAndStack/JZ9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recall/JZ12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Recall/JZ12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recall/JZ13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Recall/JZ13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Search/JZ11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Search/JZ11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Search/JZ38.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Search/JZ38.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Search/JZ4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Search/JZ4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Search/JZ44.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Search/JZ44.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Search/JZ53.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Search/JZ53.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Simulate/JZ20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Simulate/JZ20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Simulate/JZ29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Simulate/JZ29.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Simulate/JZ61.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Simulate/JZ61.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Simulate/JZ67.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Simulate/JZ67.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sort/JZ3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Sort/JZ3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sort/JZ40.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Sort/JZ40.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sort/JZ41.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Sort/JZ41.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sort/JZ51.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Sort/JZ51.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/JZ26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Tree/JZ26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/JZ27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Tree/JZ27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/JZ28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Tree/JZ28.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/JZ32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Tree/JZ32.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/JZ33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Tree/JZ33.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/JZ34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Tree/JZ34.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/JZ36.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Tree/JZ36.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/JZ37.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Tree/JZ37.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/JZ54.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Tree/JZ54.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/JZ55.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Tree/JZ55.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/JZ68.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Tree/JZ68.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/JZ7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Tree/JZ7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/JZ77.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Tree/JZ77.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/JZ78.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Tree/JZ78.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/JZ79.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Tree/JZ79.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/JZ8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Tree/JZ8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/JZ82.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Tree/JZ82.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/JZ84.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Tree/JZ84.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/JZ86.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwordAtOffer/Tree/JZ86.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCodeHot100/Q15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q15.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +70,7 @@
       <workItem from="1688625173439" duration="90402000" />
       <workItem from="1689137049729" duration="5672000" />
       <workItem from="1689218611865" duration="8371000" />
-      <workItem from="1689311378484" duration="36882000" />
+      <workItem from="1689311378484" duration="51750000" />
     </task>
     <task id="LOCAL-00001" summary="Algorithm">
       <created>1688267640564</created>
@@ -220,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689480562462</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Algorithm">
+      <created>1689681291450</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1689681291450</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
