@@ -2,19 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e993bda2-565e-4da3-a313-bd1fa0f913bf" name="Changes" comment="Algorithm">
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q36.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q37.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q38.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q41.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q42.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q43.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q44.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q45.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q47.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q52.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q53.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeHot100/Q35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q35.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCodeHot100/Q46.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q46.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +69,7 @@
       <workItem from="1689218611865" duration="8371000" />
       <workItem from="1689311378484" duration="80040000" />
       <workItem from="1690095933579" duration="31000" />
-      <workItem from="1690095985346" duration="3893000" />
+      <workItem from="1690095985346" duration="11850000" />
     </task>
     <task id="LOCAL-00001" summary="Algorithm">
       <created>1688267640564</created>
@@ -159,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689995479125</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Algorithm">
+      <created>1690121908135</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1690121908135</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
