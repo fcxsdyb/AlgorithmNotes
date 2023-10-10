@@ -14,7 +14,6 @@ public class Q3 {
         Map<Character, Integer> map = new HashMap<>();
         int start = 0;
         int end = 0;
-        int max = 0;
         while (end < s.length() && start < s.length()) {
             if (map.containsKey(s.charAt(end))) {
                 start = Math.max(map.get(s.charAt(end)) + 1, start);

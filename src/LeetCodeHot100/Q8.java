@@ -11,7 +11,7 @@ import java.util.List;
 public class Q8 {
 
     public static List<List<Integer>> threeSum(int[] nums) {
-        List<List<Integer>> ans = new ArrayList();
+        List<List<Integer>> ans = new ArrayList<>();
         int len = nums.length;
         if (nums == null || len < 3) return ans;
         Arrays.sort(nums); // 排序

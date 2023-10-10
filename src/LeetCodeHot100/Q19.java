@@ -9,35 +9,27 @@ import java.util.*;
 public class Q19 {
 
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        int len = candidates.length;
         List<List<Integer>> res = new ArrayList<>();
-        if (len == 0) {
-            return res;
-        }
-
-        // 排序是剪枝的前提
         Arrays.sort(candidates);
-        Deque<Integer> path = new ArrayDeque<>();
-        dfs(candidates, 0, len, target, path, res);
+        dfs(candidates, 0, 0, target, res, new ArrayList<>());
         return res;
     }
 
-    private void dfs(int[] candidates, int begin, int len, int target, Deque<Integer> path, List<List<Integer>> res) {
-        // 由于进入更深层的时候，小于 0 的部分被剪枝，因此递归终止条件值只判断等于 0 的情况
-        if (target == 0) {
-            res.add(new ArrayList<>(path));
+    public void dfs(int[] candidates, int item, int sum, int target, List<List<Integer>> res, List<Integer> count) {
+        if (sum == target) {
+            res.add(new ArrayList<>(count));
             return;
         }
 
-        for (int i = begin; i < len; i++) {
-            // 重点理解这里剪枝，前提是候选数组已经有序，
-            if (target - candidates[i] < 0) {
+        for (int i = item; i < candidates.length; i++) {
+            if (sum + candidates[i] > target) {
                 break;
             }
-
-            path.addLast(candidates[i]);
-            dfs(candidates, i, len, target - candidates[i], path, res);
-            path.removeLast();
+            count.add(candidates[i]);
+            sum += candidates[i];
+            dfs(candidates, i, sum, target, res, count);
+            count.remove(count.size() - 1);
+            sum -= candidates[i];
         }
     }
 

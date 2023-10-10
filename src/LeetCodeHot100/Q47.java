@@ -10,7 +10,7 @@ import java.util.Set;
 public class Q47 {
 
     public int longestConsecutive(int[] nums) {
-        Set<Integer> num_set = new HashSet<Integer>();
+        Set<Integer> num_set = new HashSet<>();
         for (int num : nums) {
             num_set.add(num);
         }

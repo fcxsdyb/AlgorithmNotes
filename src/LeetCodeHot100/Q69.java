@@ -5,14 +5,13 @@ import java.util.LinkedList;
 
 /**
  * 239.滑动窗口最大值
- * 没太理解
  */
 
 public class Q69 {
 
     public static int[] maxSlidingWindow(int[] nums, int k) {
         int n = nums.length;
-        Deque<Integer> deque = new LinkedList<Integer>();
+        Deque<Integer> deque = new LinkedList<>();
         for (int i = 0; i < k; ++i) {
             while (!deque.isEmpty() && nums[i] >= nums[deque.peekLast()]) {
                 deque.pollLast();

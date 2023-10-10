@@ -31,15 +31,15 @@ public class Q41 {
     }
 
     public List<List<Integer>> levelOrder(TreeNode root) {
-        List<List<Integer>> ret = new ArrayList<List<Integer>>();
+        List<List<Integer>> ret = new ArrayList<>();
         if (root == null) {
             return ret;
         }
 
-        Queue<TreeNode> queue = new LinkedList<TreeNode>();
+        Queue<TreeNode> queue = new LinkedList<>();
         queue.offer(root);
         while (!queue.isEmpty()) {
-            List<Integer> level = new ArrayList<Integer>();
+            List<Integer> level = new ArrayList<>();
             int currentLevelSize = queue.size();
             for (int i = 1; i <= currentLevelSize; ++i) {
                 TreeNode node = queue.poll();

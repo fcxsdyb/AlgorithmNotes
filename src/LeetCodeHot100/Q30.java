@@ -2,6 +2,7 @@ package LeetCodeHot100;
 
 /**
  * 72.编辑距离
+ * 搞不懂
  */
 
 public class Q30 {

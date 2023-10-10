@@ -68,4 +68,28 @@ public class Q43 {
         return root;
     }
 
+    /**
+     * 2.Designed by Bob.
+     */
+    public TreeNode buildTree2(int[] preorder, int[] inorder) {
+        return buildTree2(preorder, 0, preorder.length - 1, inorder, 0, inorder.length - 1);
+    }
+
+    public TreeNode buildTree2(int[] preorder, int startPre, int preorderLength, int[] inorder, int startIn, int inorderLength) {
+        if (startPre > preorderLength || startIn > inorderLength) {
+            return null;
+        }
+
+        for (int pivot = startIn; pivot <= inorderLength; pivot++) {
+            if (inorder[pivot] == preorder[startPre]) {
+                TreeNode root = new TreeNode(inorder[pivot]);
+                root.left = buildTree2(preorder, startPre + 1, pivot - startIn + startPre, inorder, startIn, pivot - 1);
+                root.right = buildTree2(preorder, pivot - startIn + startPre + 1, preorderLength, inorder, pivot + 1, inorderLength);
+                return root;
+            }
+        }
+
+        return null;
+    }
+
 }

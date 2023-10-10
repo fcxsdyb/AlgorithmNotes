@@ -5,35 +5,28 @@ import java.util.Map;
 
 /**
  * 169.多数元素
- * 数组排序取中间值
- * 哈希表
  */
 
 public class Q57 {
 
-    private Map<Integer, Integer> countNums(int[] nums) {
-        Map<Integer, Integer> counts = new HashMap<Integer, Integer>();
-        for (int num : nums) {
-            if (!counts.containsKey(num)) {
-                counts.put(num, 1);
-            } else {
-                counts.put(num, counts.get(num) + 1);
-            }
-        }
-        return counts;
-    }
-
+    /**
+     * 1.Vote
+     */
     public int majorityElement(int[] nums) {
-        Map<Integer, Integer> counts = countNums(nums);
-
-        Map.Entry<Integer, Integer> majorityEntry = null;
-        for (Map.Entry<Integer, Integer> entry : counts.entrySet()) {
-            if (majorityEntry == null || entry.getValue() > majorityEntry.getValue()) {
-                majorityEntry = entry;
+        int cand_num = nums[0], count = 1;
+        for (int i = 1; i < nums.length; ++i) {
+            if (cand_num == nums[i])
+                ++count;
+            else if (--count == 0) {
+                cand_num = nums[i];
+                count = 1;
             }
         }
-
-        return majorityEntry.getKey();
+        return cand_num;
     }
+
+    /**
+     * 2.Hashtable
+     */
 
 }

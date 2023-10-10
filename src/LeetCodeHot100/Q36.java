@@ -31,7 +31,7 @@ public class Q36 {
             int[] up = new int[m];
             int[] down = new int[m];
 
-            Deque<Integer> stack = new LinkedList<Integer>();
+            Deque<Integer> stack = new LinkedList<>();
             for (int i = 0; i < m; i++) {
                 while (!stack.isEmpty() && left[stack.peek()][j] >= left[i][j]) {
                     stack.pop();

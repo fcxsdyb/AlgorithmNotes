@@ -29,7 +29,7 @@ public class Q44 {
     }
 
     public void flatten(TreeNode root) {
-        List<TreeNode> list = new ArrayList<TreeNode>();
+        List<TreeNode> list = new ArrayList<>();
         preorderTraversal(root, list);
         int size = list.size();
         for (int i = 1; i < size; i++) {

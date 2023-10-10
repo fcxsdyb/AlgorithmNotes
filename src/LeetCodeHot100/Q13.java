@@ -11,31 +11,31 @@ public class Q13 {
 
     public List<String> generateParenthesis(int n) {
         List<String> res = new ArrayList<>();
-        // 特判
         if (n == 0) {
             return res;
         }
 
-        dfs("", 0, 0, n, res);
+        dfs(new StringBuffer(), 0, 0, n, res);
         return res;
     }
-    
-    private void dfs(String curStr, int left, int right, int n, List<String> res) {
-        if (left == n && right == n) {
-            res.add(curStr);
+
+    public void dfs(StringBuffer sb, int left, int right, int length, List<String>res) {
+        if (left == length && right == length) {
+            res.add(sb.toString());
             return;
         }
 
-        // 剪枝
-        if (left < right) {
-            return;
-        }
+        if (left < right) return;
 
-        if (left < n) {
-            dfs(curStr + "(", left + 1, right, n, res);
+        if (left < length) {
+            sb.append("(");
+            dfs(sb, left + 1, right, length, res);
+            sb.deleteCharAt(left + right);
         }
-        if (right < n) {
-            dfs(curStr + ")", left, right + 1, n, res);
+        if (right < length) {
+            sb.append(")");
+            dfs(sb, left, right + 1, length, res);
+            sb.deleteCharAt(left + right);
         }
     }
 
