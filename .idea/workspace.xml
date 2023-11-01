@@ -2,127 +2,66 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e993bda2-565e-4da3-a313-bd1fa0f913bf" name="Changes" comment="Algorithm">
-      <change afterPath="$PROJECT_DIR$/src/ClassicalProblem/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassicalProblem/Search2DMatrix_Binary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassicalProblem/Search2DMatrix_ii.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassicalProblem/SearchInsertPosition_Binary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassicalProblem/Sqrt_Binary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassicalProblem/Subsets_BFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassicalProblem/Subsets_DFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassicalProblem/Subsets_ii_DFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interview/BDQ1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interview/BDQ2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interview/BDQ3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interview/BDQ4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interview/BQ1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interview/BQ2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interview/BQ3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interview/JDQ1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interview/JDQ3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interview/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interview/XCQ1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class1_BasicDataStructure_SortAlgorithm/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class1_BasicDataStructure_SortAlgorithm/RainbowSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class1_BasicDataStructure_SortAlgorithm/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class1_BasicDataStructure_SortAlgorithm/TwoStackSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class2_Recursion_I_BinarySearch/APowerB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class2_Recursion_I_BinarySearch/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class2_Recursion_I_BinarySearch/BinarySearch_2DMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class2_Recursion_I_BinarySearch/BinarySearch_ClosestElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class2_Recursion_I_BinarySearch/BinarySearch_FindKClosestElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class2_Recursion_I_BinarySearch/BinarySearch_FirstOccurElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class2_Recursion_I_BinarySearch/BinarySearch_LastOccurElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class2_Recursion_I_BinarySearch/BinarySearch_UnknownSizeDictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class2_Recursion_I_BinarySearch/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class3_Queue_Stack_LinkedList/DequeByStacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class3_Queue_Stack_LinkedList/LinkedList_FindMiddle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class3_Queue_Stack_LinkedList/LinkedList_HeadTailLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class3_Queue_Stack_LinkedList/LinkedList_InsertNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class3_Queue_Stack_LinkedList/LinkedList_IsCyclic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class3_Queue_Stack_LinkedList/LinkedList_MergeTwoLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class3_Queue_Stack_LinkedList/LinkedList_PartitionList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class3_Queue_Stack_LinkedList/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class3_Queue_Stack_LinkedList/MinStack_DuplicateElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class3_Queue_Stack_LinkedList/QueueByTwoStacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class3_Queue_Stack_LinkedList/ReverseLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class3_Queue_Stack_LinkedList/TwoStackSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class4_BinaryTree_BinarySearchTree/BalancedBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class4_BinaryTree_BinarySearchTree/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class4_BinaryTree_BinarySearchTree/BinaryTree_GetHeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class4_BinaryTree_BinarySearchTree/BinaryTree_Inorder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class4_BinaryTree_BinarySearchTree/BinaryTree_IsBalancedBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class4_BinaryTree_BinarySearchTree/BinaryTree_IsSymmetric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class4_BinaryTree_BinarySearchTree/BinaryTree_Postorder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class4_BinaryTree_BinarySearchTree/BinaryTree_Preorder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class4_BinaryTree_BinarySearchTree/BinaryTree_TweakIdentical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class4_BinaryTree_BinarySearchTree/CompleteBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class4_BinaryTree_BinarySearchTree/IsBinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class4_BinaryTree_BinarySearchTree/PrintRangeBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class5_Heap_GraphSearchAlgorithms_I/BinaryTree_IsCompleteBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class5_Heap_GraphSearchAlgorithms_I/BinaryTree_PrintByLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class5_Heap_GraphSearchAlgorithms_I/BreadthFirstSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class5_Heap_GraphSearchAlgorithms_I/Dijkstra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class5_Heap_GraphSearchAlgorithms_I/Dijkstra_FindSmallestKInSortedMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class5_Heap_GraphSearchAlgorithms_I/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class5_Heap_GraphSearchAlgorithms_I/Graph_Bipartite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class5_Heap_GraphSearchAlgorithms_I/Heap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class5_Heap_GraphSearchAlgorithms_I/Heap_FindSmallestKInUnsortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class6_GraphSearchAlgorithms_II/DFS_PermutationLetters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class6_GraphSearchAlgorithms_II/DFS_Subsets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class6_GraphSearchAlgorithms_II/DFS_ValidCombinationsCoins.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class6_GraphSearchAlgorithms_II/DFS_ValidParenthesisPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class6_GraphSearchAlgorithms_II/DepthFirstSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class7_Midterm/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class7_Midterm/PermutationWithoutDuplicateLetters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class7_Midterm/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class7_Midterm/ReverseLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class8_HashTable_String_I/HashTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class8_HashTable_String_I/HashTable_FindCommonNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class8_HashTable_String_I/HashTable_FindMissingNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class8_HashTable_String_I/HashTable_WordCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class8_HashTable_String_I/StringSummary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class8_HashTable_String_I/String_CharDeduplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class8_HashTable_String_I/String_CharRemoval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class8_HashTable_String_I/String_DeduplicateRepeat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class8_HashTable_String_I/String_RemoveSpaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class8_HashTable_String_I/String_SubstringFinding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class10_BitOperation/BitOperation_CheckPowerOf2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class10_BitOperation/BitOperation_ContainUniqueLetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class10_BitOperation/BitOperation_GetHexadecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class10_BitOperation/BitOperation_NegativeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class10_BitOperation/BitOperation_PositiveInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class10_BitOperation/BitOperation_Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class10_BitOperation/BitOperation_SetKthTo0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class10_BitOperation/BitOperation_SetKthTo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class11_ObjectOrientedDesign_I/OOD_ClassAndObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class11_ObjectOrientedDesign_I/OOD_Encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class11_ObjectOrientedDesign_I/OOD_Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class11_ObjectOrientedDesign_I/OOD_Polymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class12_Recursion_II/Recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class12_Recursion_II/Recursion_1D2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class12_Recursion_II/Recursion_APowerB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class12_Recursion_II/Recursion_LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class12_Recursion_II/Recursion_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class12_Recursion_II/Recursion_Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class13_DynamicProgramming_I/DP_DictionaryProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class13_DynamicProgramming_I/DP_JumpGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class13_DynamicProgramming_I/DP_LongestAscendingSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class13_DynamicProgramming_I/DP_MaximalProductCuttingRope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class13_DynamicProgramming_I/DynamicProgramming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class14_DynamicProgramming_II/DP_EditDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class14_DynamicProgramming_II/DP_LargestSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class14_DynamicProgramming_II/DP_LargestSumOfSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class14_DynamicProgramming_II/DP_MinimumJump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class15_ObjectOrientedDesign_II/OOD_ParkingLot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class16_DynamicProgramming_III/DP_Contiguous1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class16_DynamicProgramming_III/DP_Cross1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class16_DynamicProgramming_III/DP_LargestSquare1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class16_DynamicProgramming_III/DP_MatchStick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class16_DynamicProgramming_III/DP_SpeedUpQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class16_DynamicProgramming_III/DP_SubMatrixLargestSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class16_DynamicProgramming_III/DP_X1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class17_ObjectOrientedDesign_III/OOD_DesignPatterns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class18_Probability_Sampling_Randomization/OOD_ShufflingAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class18_Probability_Sampling_Randomization/Randomization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class18_Probability_Sampling_Randomization/Sampling_FindCertainLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class18_Probability_Sampling_Randomization/Sampling_ReservoirSampling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class18_Probability_Sampling_Randomization/Sampling_ReturnNumFromUnlimitedData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class18_Probability_Sampling_Randomization/Sampling_TrackMedian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class19_ObjectOrientedDesign_IV/OOD_Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class19_ObjectOrientedDesign_IV/OOD_InMemoryFileSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class20_Midterm/CutPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class20_Midterm/MaximumSubTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class20_Midterm/NQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class20_Midterm/PossibleIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class9_String_II/String_CharReplace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class9_String_II/String_EncodingDecoding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class9_String_II/String_FlipFindLongest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class9_String_II/String_Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class9_String_II/String_Reversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class9_String_II/String_ReversalWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class9_String_II/String_ShiftChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class9_String_II/String_Shuffling_I.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class9_String_II/String_Shuffling_II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class9_String_II/String_SlidingWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class9_String_II/String_SlidingWindow_FindAnagrams.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeHot100/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeHot100/Q13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeHot100/Q16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeHot100/Q19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeHot100/Q20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeHot100/Q21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeHot100/Q23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeHot100/Q25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeHot100/Q26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeHot100/Q27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeHot100/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeHot100/Q30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q30.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeHot100/Q36.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q36.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeHot100/Q39.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q39.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeHot100/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeHot100/Q41.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q41.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeHot100/Q43.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q43.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeHot100/Q44.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q44.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeHot100/Q47.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q47.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeHot100/Q53.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q53.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeHot100/Q57.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q57.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeHot100/Q58.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q58.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeHot100/Q6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeHot100/Q61.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q61.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeHot100/Q66.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q66.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeHot100/Q69.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q69.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeHot100/Q72.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q72.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeHot100/Q75.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q75.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeHot100/Q8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeHot100/Q82.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q82.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeHot100/Q84.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q84.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeHot100/Q85.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q85.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeHot100/Q87.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q87.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeHot100/Q95.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeHot100/Q95.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,31 +99,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ToolWindowCommit.ShowToolbar": "false",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "18",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "actions.on.save"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Interview" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.String_DeduplicateRepeat">
-    <configuration name="HashTable_WordCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LaiOffer.Class8_HashTable_String_I.HashTable_WordCount" />
+  <component name="RunManager" selected="Application.NQueens">
+    <configuration name="CutPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LaiOffer.Class20_Midterm.CutPalindrome" />
       <module name="AlgorithmNotes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LaiOffer.Class8_HashTable_String_I.*" />
+          <option name="PATTERN" value="LaiOffer.Class20_Midterm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String_CharDeduplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LaiOffer.Class8_HashTable_String_I.String_CharDeduplicate" />
+    <configuration name="DP_LargestSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LaiOffer.Class14_DynamicProgramming_II.DP_LargestSquare" />
       <module name="AlgorithmNotes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LaiOffer.Class8_HashTable_String_I.*" />
+          <option name="PATTERN" value="LaiOffer.Class14_DynamicProgramming_II.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String_CharRemoval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LaiOffer.Class8_HashTable_String_I.String_CharRemoval" />
+    <configuration name="DP_LargestSumOfSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LaiOffer.Class14_DynamicProgramming_II.DP_LargestSumOfSubarray" />
       <module name="AlgorithmNotes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LaiOffer.Class8_HashTable_String_I.*" />
+          <option name="PATTERN" value="LaiOffer.Class14_DynamicProgramming_II.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String_DeduplicateRepeat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LaiOffer.Class8_HashTable_String_I.String_DeduplicateRepeat" />
+    <configuration name="DP_MaximalProductCuttingRope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LaiOffer.Class13_DynamicProgramming_I.DP_MaximalProductCuttingRope" />
       <module name="AlgorithmNotes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LaiOffer.Class8_HashTable_String_I.*" />
+          <option name="PATTERN" value="LaiOffer.Class13_DynamicProgramming_I.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -231,12 +171,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String_RemoveSpaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LaiOffer.Class8_HashTable_String_I.String_RemoveSpaces" />
+    <configuration name="NQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LaiOffer.Class20_Midterm.NQueens" />
       <module name="AlgorithmNotes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LaiOffer.Class8_HashTable_String_I.*" />
+          <option name="PATTERN" value="LaiOffer.Class20_Midterm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -245,19 +185,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HashTable_WordCount" />
-      <item itemvalue="Application.String_CharDeduplicate" />
-      <item itemvalue="Application.String_CharRemoval" />
-      <item itemvalue="Application.String_DeduplicateRepeat" />
-      <item itemvalue="Application.String_RemoveSpaces" />
+      <item itemvalue="Application.CutPalindrome" />
+      <item itemvalue="Application.DP_MaximalProductCuttingRope" />
+      <item itemvalue="Application.NQueens" />
+      <item itemvalue="Application.DP_LargestSquare" />
+      <item itemvalue="Application.DP_LargestSumOfSubarray" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.String_DeduplicateRepeat" />
-        <item itemvalue="Application.String_CharDeduplicate" />
-        <item itemvalue="Application.String_RemoveSpaces" />
-        <item itemvalue="Application.String_CharRemoval" />
-        <item itemvalue="Application.HashTable_WordCount" />
+        <item itemvalue="Application.NQueens" />
+        <item itemvalue="Application.CutPalindrome" />
+        <item itemvalue="Application.DP_LargestSumOfSubarray" />
+        <item itemvalue="Application.DP_LargestSquare" />
+        <item itemvalue="Application.DP_MaximalProductCuttingRope" />
       </list>
     </recent_temporary>
   </component>
@@ -310,7 +250,9 @@
       <workItem from="1696597806728" duration="9000" />
       <workItem from="1696597833184" duration="6045000" />
       <workItem from="1696653575695" duration="65473000" />
-      <workItem from="1696941033323" duration="597000" />
+      <workItem from="1696941033323" duration="43725000" />
+      <workItem from="1697596239227" duration="85156000" />
+      <workItem from="1698375108428" duration="85196000" />
     </task>
     <task id="LOCAL-00001" summary="Algorithm">
       <created>1688267640564</created>
@@ -438,7 +380,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691132301328</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Algorithm">
+      <created>1696980605616</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1696980605616</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -466,6 +415,9 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/AlgorithmNotes$Main.ic" NAME="Main Coverage Results" MODIFIED="1693021025103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>LeetCodeHot100.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/AlgorithmNotes$String_ReversalWords.ic" NAME="String_ReversalWords Coverage Results" MODIFIED="1696991223639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>LaiOffer.Class9_String_II.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/AlgorithmNotes$Q19.ic" NAME="Q19 Coverage Results" MODIFIED="1691296078694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>LeetCodeHot100.*</FILTER>
