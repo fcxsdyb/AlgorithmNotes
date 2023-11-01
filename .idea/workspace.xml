@@ -1,68 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e993bda2-565e-4da3-a313-bd1fa0f913bf" name="Changes" comment="Algorithm">
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class10_BitOperation/BitOperation_CheckPowerOf2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class10_BitOperation/BitOperation_ContainUniqueLetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class10_BitOperation/BitOperation_GetHexadecimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class10_BitOperation/BitOperation_NegativeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class10_BitOperation/BitOperation_PositiveInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class10_BitOperation/BitOperation_Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class10_BitOperation/BitOperation_SetKthTo0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class10_BitOperation/BitOperation_SetKthTo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class11_ObjectOrientedDesign_I/OOD_ClassAndObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class11_ObjectOrientedDesign_I/OOD_Encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class11_ObjectOrientedDesign_I/OOD_Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class11_ObjectOrientedDesign_I/OOD_Polymorphism.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class12_Recursion_II/Recursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class12_Recursion_II/Recursion_1D2DArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class12_Recursion_II/Recursion_APowerB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class12_Recursion_II/Recursion_LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class12_Recursion_II/Recursion_String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class12_Recursion_II/Recursion_Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class13_DynamicProgramming_I/DP_DictionaryProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class13_DynamicProgramming_I/DP_JumpGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class13_DynamicProgramming_I/DP_LongestAscendingSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class13_DynamicProgramming_I/DP_MaximalProductCuttingRope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class13_DynamicProgramming_I/DynamicProgramming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class14_DynamicProgramming_II/DP_EditDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class14_DynamicProgramming_II/DP_LargestSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class14_DynamicProgramming_II/DP_LargestSumOfSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class14_DynamicProgramming_II/DP_MinimumJump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class15_ObjectOrientedDesign_II/OOD_ParkingLot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class16_DynamicProgramming_III/DP_Contiguous1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class16_DynamicProgramming_III/DP_Cross1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class16_DynamicProgramming_III/DP_LargestSquare1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class16_DynamicProgramming_III/DP_MatchStick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class16_DynamicProgramming_III/DP_SpeedUpQuery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class16_DynamicProgramming_III/DP_SubMatrixLargestSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class16_DynamicProgramming_III/DP_X1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class17_ObjectOrientedDesign_III/OOD_DesignPatterns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class18_Probability_Sampling_Randomization/OOD_ShufflingAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class18_Probability_Sampling_Randomization/Randomization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class18_Probability_Sampling_Randomization/Sampling_FindCertainLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class18_Probability_Sampling_Randomization/Sampling_ReservoirSampling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class18_Probability_Sampling_Randomization/Sampling_ReturnNumFromUnlimitedData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class18_Probability_Sampling_Randomization/Sampling_TrackMedian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class19_ObjectOrientedDesign_IV/OOD_Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class19_ObjectOrientedDesign_IV/OOD_InMemoryFileSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class20_Midterm/CutPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class20_Midterm/MaximumSubTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class20_Midterm/NQueens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class20_Midterm/PossibleIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class9_String_II/String_CharReplace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class9_String_II/String_EncodingDecoding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class9_String_II/String_FlipFindLongest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class9_String_II/String_Permutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class9_String_II/String_Reversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class9_String_II/String_ReversalWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class9_String_II/String_ShiftChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class9_String_II/String_Shuffling_I.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class9_String_II/String_Shuffling_II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class9_String_II/String_SlidingWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaiOffer/Class9_String_II/String_SlidingWindow_FindAnagrams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e993bda2-565e-4da3-a313-bd1fa0f913bf" name="Changes" comment="Algorithm" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -252,7 +191,7 @@
       <workItem from="1696653575695" duration="65473000" />
       <workItem from="1696941033323" duration="43725000" />
       <workItem from="1697596239227" duration="85156000" />
-      <workItem from="1698375108428" duration="85196000" />
+      <workItem from="1698375108428" duration="85607000" />
     </task>
     <task id="LOCAL-00001" summary="Algorithm">
       <created>1688267640564</created>
@@ -387,7 +326,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696980605616</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Algorithm">
+      <created>1698819857097</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1698819857097</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
